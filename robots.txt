@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://siarms.github.io/EXG/sitemap.EXG.gz
